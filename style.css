@@ -1,0 +1,132 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+body{
+    background:  #fddbefb2;
+}
+
+.nav{
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.nav-ul{
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    list-style: none;
+}
+
+.img{
+    padding-right: 100px;
+}
+
+.nav-ul a{
+    text-decoration: none;
+    color: #7E7F86;
+    font-size: 20px;
+    padding-left: 30px;
+}
+
+.iconca{
+    width: 70px;
+    height: 70px;
+    border-radius: 34px;
+    align-items: center;
+    background: #FFF;
+    background: drop-shadow(0px 20px 50px rgba(198, 185, 233, 0.30));
+    margin-left: 563px;
+}
+
+.icon{
+    padding: 17px 0 0 20px;
+}
+
+.header{
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0 0 40px auto;
+}
+
+.helo{
+    color: #7E7F86;
+    font-size: 24px;
+    line-height: 120%;
+}
+
+.adam{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 120%;
+}
+
+.freelance{
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.btn{
+    width: 200px;
+    height: 60px;
+    border-radius: 100px;
+    background: #8643DC;
+    border: none;
+    font-size: 24px;
+    color: white;
+    margin-top: 50px;
+}
+
+.img2{
+    width: 62px;
+    height: 60.591px;
+    background: url(img/Polygon-1-copy-2\ 1.png);
+    text-align: center;
+    padding-top: 15px;
+}
+
+.item{
+    max-width: 500px;
+    text-align: start;
+}
+
+.ser{
+    font-size: 28px;
+    color: #8643DC;
+    width: 68px;
+}
+
+.hr{
+    width: 50px;
+    background: #8643DC;
+    height: 2px;
+}
+
+.what{
+    width: 246px;
+    height: 96px;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.ux{
+    font-size: 24px;
+    width: 139px;
+    height: 32px;
+}
+
+.new{
+    width: 350px;
+    height: 121px;
+    line-height: 32px;
+    color: #47444E;
+}
